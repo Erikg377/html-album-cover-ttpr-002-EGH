@@ -1,4 +1,6 @@
-<!-- FRONT -->
+<h4>PHARRELL WILLIAMS</h4>
+<h2>HAPPY</h2>
+<h4>FROM DESPICABLE ME 2</h4>
 
 PHARRELL WILLIAMS
 
@@ -6,7 +8,26 @@ HAPPY
 
 | FROM DESPICABLE ME 2 |
 
-<!-- BACK -->
+<h3>FROM DESPICABLE ME 2</h3>
+
+<h1>HAPPY</h1>
+
+<h3>WRITTEN BY PHARRELL WILLIAMS</h3>
+
+<p>
+PUBLISHED BY EMI APRIL MUSIC, INC. OBO ITSELF AND MORE WATER
+FROM NAZARETH (ASCAP) / UNIVERSAL PICTURES MUSIC (ASCAP)
+</p>
+
+<span>PHARRELLWILLIAMS.COM</span>
+
+<img src="columbia-logo.png" alt="Columbia Logo">
+
+<span>COLUMBIARECORDS.COM</span>
+
+<br>
+
+<img src="sony-logo.png" alt="Sony Logo">
 
 | &nbsp;&nbsp; FROM DESPICABLE ME 2 &nbsp;&nbsp; |
 
